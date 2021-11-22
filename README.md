@@ -5,7 +5,7 @@ My Data Science portfolio
 </p>
 
 # Rafael Marinho
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Lead Data Scientist*
 
 Olá, seja bem-vindo ao meu perfil!
 
