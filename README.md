@@ -28,8 +28,8 @@ Abraço!
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **:** -
+*  Análise exploratória de dados do Airbnb (CHICAGO) (https://www.linkedin.com/in/rafael-marinho-6a90211a1/)
 
 
----
+
 
