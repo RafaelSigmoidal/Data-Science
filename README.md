@@ -20,15 +20,15 @@ Ahh! Gosto muito é de conhecer novas pessoas, trocar ideias e experiência, sem
 
 Abraço!
 
-**Background in:** Python.
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafael-marinho-6a90211a1/)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* [Análise exploratória de dados do Airbnb]()
+
+* [Análise exploratória do Airbnb CHICAGO](https://github.com/RafaelSigmoidal/Airbnb_Chicago)
 
 
 
