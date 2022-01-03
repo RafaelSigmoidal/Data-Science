@@ -22,7 +22,7 @@ Abraço!
 
 **Background in:** Python.
 **Links:**
-* [LinkedIn](www.linkedin.com/in/rafael-marinho-6a90211a1)
+* [LinkedIn](https://www.linkedin.com/in/rafael-marinho-6a90211a1/)
 
 
 ## Projetos:
